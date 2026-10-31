@@ -6,10 +6,10 @@
     "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/bat-tat-tro-nang-v2.17.apk.b64"
   },
   "com.phan.smstoemail": {
-    "versionCode": 11,
-    "versionName": "1.10",
-    "apkFile": "sms-sang-email-v1.10.apk",
-    "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/sms-sang-email-v1.10.apk.b64"
+    "versionCode": 12,
+    "versionName": "1.11",
+    "apkFile": "sms-sang-email-v1.11.apk",
+    "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/sms-sang-email-v1.11.apk.b64"
   },
   "com.phan.sendtotv": {
     "versionCode": 7,
