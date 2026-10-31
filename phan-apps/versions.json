@@ -1,0 +1,26 @@
+{
+  "com.phan.a11ytoggle": {
+    "versionCode": 21,
+    "versionName": "2.16",
+    "apkFile": "bat-tat-tro-nang-v2.16.apk",
+    "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/bat-tat-tro-nang-v2.16.apk.b64"
+  },
+  "com.phan.smstoemail": {
+    "versionCode": 10,
+    "versionName": "1.9",
+    "apkFile": "sms-sang-email-v1.9.apk",
+    "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/sms-sang-email-v1.9.apk.b64"
+  },
+  "com.phan.sendtotv": {
+    "versionCode": 6,
+    "versionName": "1.5",
+    "apkFile": "gui-sang-tv-v1.5.apk",
+    "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/gui-sang-tv-v1.5.apk.b64"
+  },
+  "com.phan.mediatoggle": {
+    "versionCode": 2,
+    "versionName": "1.1",
+    "apkFile": "bat-tat-am-da-phuong-tien-v1.1.apk",
+    "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/bat-tat-am-da-phuong-tien-v1.1.apk.b64"
+  }
+}
