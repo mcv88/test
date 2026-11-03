@@ -22,5 +22,11 @@
     "versionName": "1.2",
     "apkFile": "bat-tat-am-da-phuong-tien-v1.2.apk",
     "b64Url": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/bat-tat-am-da-phuong-tien-v1.2.apk.b64"
+  },
+  "com.phan.allinone": {
+    "versionCode": 10,
+    "versionName": "1.9",
+    "apkFile": "cai-dat-tat-ca-v1.9.apk",
+    "apkUrl": "https://raw.githubusercontent.com/mcv88/test/main/phan-apps/cai-dat-tat-ca-v1.9.apk"
   }
 }
